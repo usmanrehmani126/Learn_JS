@@ -1,0 +1,1 @@
+console.log("How functions work in JS ❤️ & Variable Environment" )
